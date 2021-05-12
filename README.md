@@ -11,8 +11,6 @@ by Redmund Nacario
     `bundle exec rspec`
 
 * How to create Bread package divider for a new bread
-  
- 1. Rspec:
 
     ```ruby
     vs5_order = Bread.new("tinapay", 3, prices ={2 => 3, 1 => 2})
